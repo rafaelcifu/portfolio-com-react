@@ -1,0 +1,27 @@
+.container-stack .stack {
+    background-color: #0F0F0F;
+    padding: 15px 15px 20px 20px;
+    width: 460px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #707070;
+    position: relative;
+    margin: 0px 20px 20px 0px;
+}
+
+.container-stack .stack:hover {
+    border-color: #5DB9FA;
+}
+
+.container-stack .separator {
+    margin: 12px 0px 12px 0px;
+    padding: 1px;
+    max-width: auto;
+    background-color: #444444;
+}
+
+.container-stack .stack-logos {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}

@@ -1,0 +1,24 @@
+.container-profile {
+    background-color: #0F0F0F;
+    padding: 68px 25px 20px 25px;
+    max-width: 400px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #707070;
+    position: relative;
+    margin: 0px 20px 0px 20px;
+}
+
+.container-profile .profile-photo {
+    width: 120px;
+    border: #5DB9FA;
+    border-style: solid;
+    border-radius: 100px;
+    border-width: 2px;
+    position: absolute;
+    top: -75px;
+}
+
+.container-profile:hover {
+    border-color: #5DB9FA;
+}

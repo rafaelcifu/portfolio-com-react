@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="239.883" height="44.783" viewBox="0 0 239.883 44.783">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.046" y1="0.5" x2="0.906" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#12d45c"/>
+      <stop offset="0.451" stop-color="#028ff3"/>
+      <stop offset="1" stop-color="#018afc" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="1.046" y1="0.5" x2="0.094" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0089ff"/>
+      <stop offset="0.456" stop-color="#13d659"/>
+      <stop offset="1" stop-color="#1dff00" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_2644" data-name="Grupo 2644" transform="translate(0)">
+    <text id="front_academy" data-name="front academy" transform="translate(51.883 30.923)" fill="#fff" font-size="31" font-family="Cabin-Bold, Cabin" font-weight="700" letter-spacing="-0.02em"><tspan x="0" y="0">front academy</tspan></text>
+    <g id="Grupo_98" data-name="Grupo 98" transform="translate(0 0)">
+      <rect id="Retângulo_3" data-name="Retângulo 3" width="34.575" height="8.067" transform="matrix(0.588, -0.809, 0.809, 0.588, 4.702, 27.972)" fill="url(#linear-gradient)"/>
+      <rect id="Retângulo_6" data-name="Retângulo 6" width="34.575" height="8.067" transform="matrix(-0.809, -0.588, 0.588, -0.809, 27.972, 40.946)" fill="url(#linear-gradient)"/>
+      <rect id="Retângulo_4" data-name="Retângulo 4" width="35.439" height="8.067" transform="matrix(0.588, -0.809, 0.809, 0.588, 14.452, 40.042)" fill="url(#linear-gradient-3)"/>
+      <rect id="Retângulo_7" data-name="Retângulo 7" width="35.439" height="8.067" transform="matrix(-0.809, -0.588, 0.588, -0.809, 40.042, 31.195)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

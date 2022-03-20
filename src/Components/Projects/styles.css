@@ -1,0 +1,41 @@
+.container-projects .project {
+    background-color: #0F0F0F;
+    padding: 15px 15px 20px 20px;
+    width: 460px;
+    border-style: solid;
+    border-radius: 10px;
+    border-color: #707070;
+    position: relative;
+    margin: 0px 20px 20px 0px;
+    height: 124px;
+    overflow: auto;
+}
+
+.container-projects .project:hover {
+    border-color: #5DB9FA;
+}
+
+.container-projects .separator {
+    margin: 12px 0px 12px 0px;
+    padding: 1px;
+    max-width: auto;
+    background-color: #444444;
+}
+
+.container-projects .view-more {
+    font-size: 18px;
+    color: rgb(95, 95, 95);
+    margin: 0;
+    cursor: pointer;
+}
+
+
+.container-projects .view-more:hover {
+    color: #5DB9FA;
+}
+
+.container-projects .project-header {
+    display: flex;  
+    align-items: center;
+    justify-content: space-between;
+}

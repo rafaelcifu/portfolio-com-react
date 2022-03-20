@@ -1,0 +1,9 @@
+.container-poweredby .poweredby {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container-poweredby .paragraph {
+    margin: 0;
+}

@@ -1,0 +1,41 @@
+.container-portfolio {
+    height: 100vh;
+    background-color: #242424;
+}
+
+.container-portfolio .portfolio {
+    height: 92vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container-portfolio .container-poweredby {
+    height: 8vh;
+    align-items: center;
+    justify-content: center;
+}
+
+.super-title {
+    color: #ffff;
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+.sub-title-color {
+    color: #5DB9FA;
+    margin: 10px 0px 10px 0px;
+    font-weight: 300;
+    font-size: 20px; 
+}
+
+.paragraph {
+    color: #ffff;
+    line-height: 24px;
+}
+
+.title {
+    color: #ffff;
+    font-size: 20px;
+    margin: 0;
+}
